@@ -3,7 +3,8 @@ Doublet Subtraction. ShenGroup @ Cornell
 
 The Igor procedure file "THE DOUBLET CODE.ipf" contains all the doublet subtraction code.
 
-For an example of how to use it, download the Igor experiment file "UPLOAD THIS ONE.pxp", open the Igor experiment and look under Procedures. Instructions follow on the procedure window. They are also repeated here
+
+For an example of how to use it, download the Igor experiment file "EXAMPLE EXPERIMENT.pxp", open the Igor experiment and look under Procedures. Instructions follow on the procedure window. They are also repeated here
 
 //Hello! Here's an example of how to use this code: 
 //"root:Example_NeI_Data_Bi2Se3:NeI_presubtracted" is an example ARPES images of single crystal Bi2Se3
